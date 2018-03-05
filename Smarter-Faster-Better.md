@@ -27,4 +27,6 @@ by Charles Duhigg
 * pg 36: Whenever something unpleasant is occurring, ask yourself "why"
 
 #### Summary
-	Self-motivation is the result of connecting insignificant and small actions to a larger meaning. Getting into the habit of reframing those small events into an important whole is how someone continues to improve.
+	Self-motivation is the result of connecting insignificant and small actions to a larger meaning. 
+	Getting into the habit of reframing those small events into an important whole is how someone 
+	continues to improve.
