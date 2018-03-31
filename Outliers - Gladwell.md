@@ -16,6 +16,19 @@
   - Bill Joy
   - Bill Gates
   - The Beatles
-#### Smart Enough
+#### The Trouble with Geniuses
 - IQ and grades have decreasing predictive value as they increase past a certain point
 - Less qualified minority students become just as successful after a Law degree at the University of Michigan as their, initially, more qualified white counterparts
+- Emotional intelligence and other cognitive abilities are important predictors of success
+- Different intelligences are orthogonal; the presence of one does not imply the other
+- Children of wealthy parents are raised with a sense of entitlement, that they are an agent in the world and with enough training they can become an authority
+- Wealthy parents intentionally cultivate their children
+  - teach and practice a wide range of skills, 
+  - train them for success in the modern social world, 
+  - teach them to reason with and question authority
+- Poor parents do not cultiveate their children
+  - They view their childs growth as natural and inevitable
+  - They teach a deference to authority
+- Of 730 of the original Terman Geniuses, the least successful all/mostly came from poor backgrounds
+#### Success as a Product of Environment
+
