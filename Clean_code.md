@@ -1,0 +1,4 @@
+- One level of abstraction per function. 
+- Do one thing. If you can extract another function from your function, it's not doing one thing
+- Readability. Top down. Each line is "to do X, do A, B, C
+- Switch statements at class level functions often break single responsibility, and open closed principle. They can be replaced with polymorphism. Use a single switch statement in a abstract factory that produces subtypes each containing their own function that executes their case in the original switch statement 
