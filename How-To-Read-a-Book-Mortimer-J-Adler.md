@@ -53,3 +53,9 @@ To achieve this we practice the following:
 Note that good reading is a skill, you must practice, and you will improve over time.
 
 ### Synoptical
+
+The purpose of synoptical reading is to review the literature on a particular subject to answer questions posed by the reader
+- Unlike analytical reading we are permitted to read only the parts of the book that we care about
+
+- Create a bibliography of the books in the subject area you are concerned with
+- Inspect all thes books
