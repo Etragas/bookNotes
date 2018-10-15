@@ -57,5 +57,14 @@ Note that good reading is a skill, you must practice, and you will improve over 
 The purpose of synoptical reading is to review the literature on a particular subject to answer questions posed by the reader
 - Unlike analytical reading we are permitted to read only the parts of the book that we care about
 
-- Create a bibliography of the books in the subject area you are concerned with
-- Inspect all thes books
+1. Create a bibliography of the books in the subject area you are concerned with
+1. Inspect all these books
+1. Read each as much or as little as it merits
+
+- Find the relevant passages
+- Understand the authors key terms/proper nouns, and what she means by them
+- Have your own set of key terms that all of the authors' terms map back to
+- Have a set questions you are answering
+- Understand the discussion in the literature as a whole, 
+  - Be able to explain and cite each part or side of it
+Be objective. Investigate all sides, take none.
