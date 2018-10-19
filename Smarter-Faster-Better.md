@@ -1,3 +1,5 @@
+Note: Lyon has notes on this book as well. They are just written in the book
+
 ## Smarter Faster Better
 by Charles Duhigg
 
